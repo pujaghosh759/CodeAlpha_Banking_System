@@ -1,0 +1,59 @@
+===== BANKING SYSTEM =====
+
+1. Create Account
+2. Deposit Money
+3. Withdraw Money
+4. Check Balance
+5. Exit
+Enter your choice: 1
+
+Enter Account Number: 101
+Enter Name: Arora
+Enter Initial Balance: 2000
+Account created successfully!
+
+-------------------------------------
+
+1. Create Account
+2. Deposit Money
+3. Withdraw Money
+4. Check Balance
+5. Exit
+Enter your choice: 2
+
+Enter Account Number: 101
+Enter Amount to Deposit: 1500
+Deposit successful!
+Updated Balance: 3500
+
+-------------------------------------
+
+1. Create Account
+2. Deposit Money
+3. Withdraw Money
+4. Check Balance
+5. Exit
+Enter your choice: 3
+
+Enter Account Number: 101
+Enter Amount to Withdraw: 500
+Withdrawal successful!
+Updated Balance: 3000
+
+-------------------------------------
+
+1. Create Account
+2. Deposit Money
+3. Withdraw Money
+4. Check Balance
+5. Exit
+Enter your choice: 4
+
+Account Number: 101
+Name: Arora
+Current Balance: 3000
+
+-------------------------------------
+
+Enter your choice: 5
+Exiting the program...
